@@ -1,0 +1,1039 @@
+symbol,name,sector_name,is_etf,is_debt,is_gem
+AKBLTFC6,Askari Bank(TFC6),BILLS AND BONDS,False,True,False
+BAFLTFC6,Bank Al-Falah(TFC6,BILLS AND BONDS,False,True,False
+BAFLTFC8,Bank Alfalah(TFC8),BILLS AND BONDS,False,True,False
+BAFLTFC9,Bank Alfalah Limited,BILLS AND BONDS,False,True,False
+BAHLTFC10,BANK AL HABIB LTD. (10TH ISSUE),BILLS AND BONDS,False,True,False
+BAHLTFC9,Bank Al-Habib(TFC9,BILLS AND BONDS,False,True,False
+BIPLSC,Bank IslamiSC,BILLS AND BONDS,False,True,False
+BIPLSC2,BankIslami Pakistan Ltd,BILLS AND BONDS,False,True,False
+BOPTFC2,Bank Of Punjab(TFC,BILLS AND BONDS,False,True,False
+FABLSC,Faysal Bank Sukuk,BILLS AND BONDS,False,True,False
+HBLTFC2,Habib Bank(TFC2),BILLS AND BONDS,False,True,False
+HBLTFC3,Habib Bank (TFC3),BILLS AND BONDS,False,True,False
+JSBLTFC2,JS Bank Ltd(TFC2),BILLS AND BONDS,False,True,False
+JSBLTFC3,JS Bank(TFC),BILLS AND BONDS,False,True,False
+JSBLTFC4,JS BANK (TFC),BILLS AND BONDS,False,True,False
+KELSC5,K-Electric(Sukuk5),BILLS AND BONDS,False,True,False
+KELSC6,K-Electric LtdSC6,BILLS AND BONDS,False,True,False
+KELSTSC,KEL Short Term Sukuk,BILLS AND BONDS,False,True,False
+KFGB1,Kashf Foundation Gender Bond,BILLS AND BONDS,False,True,False
+MMBLTFC,Mobilink Microfinance Bank TFC,BILLS AND BONDS,False,True,False
+MUGHALSC,Mughal Steel Sukuk,BILLS AND BONDS,False,True,False
+MUGHALSTSC,Mughal Iron Short Term Sukuk,BILLS AND BONDS,False,True,False
+P01GHS020927,1 Yr Dis GoP Hybrid Sukuk Mat-02-Sep-27,BILLS AND BONDS,False,True,False
+P01GHS050827,1 Yr Dis GoP Hybrid Sukuk Mat-05-Aug-27,BILLS AND BONDS,False,True,False
+P01GHS080727,1 Yr Dis GoP Hybrid Sukuk Mat-08-Jul-27,BILLS AND BONDS,False,True,False
+P01GHS100627,1 Yr Dis GoP Hybrid Sukuk Mat-10-Jun-27,BILLS AND BONDS,False,True,False
+P01GHS130527,1 Yr DIS GoP Hybrid Sukuk Mat-13-May-27,BILLS AND BONDS,False,True,False
+P01GHS150427,1 Yr DIS GoP Hybrid Sukuk Mat-15-Apr-27,BILLS AND BONDS,False,True,False
+P01GHS160927,1-Yr Dis GoP Hybrid Sukuk Mat-16-Sep-27,BILLS AND BONDS,False,True,False
+P01GHS190827,1 Yr Dis GoP Hybrid Sukuk Mat-19-Aug-27,BILLS AND BONDS,False,True,False
+P01GHS200527,1 Yr Dis GoP Hybrid Sukuk Mat -20-May-27,BILLS AND BONDS,False,True,False
+P01GHS220727,1 Yr Dis GoP Hybrid Sukuk Mat-22-Jul-27,BILLS AND BONDS,False,True,False
+P01GHS230627,1 Yr Dis GoP Hybrid Sukuk Mat-23-Jun-27,BILLS AND BONDS,False,True,False
+P01GHS290427,1 Yr DIS GoP Hybrid Sukuk Mat-29-Apr-27,BILLS AND BONDS,False,True,False
+P01GHS300927,1 Yr GoP Hybrid Sukuk Mat-30-Sep-27,BILLS AND BONDS,False,True,False
+P01GIS080227,1 Year GIS Discounted Mat - 08-Feb-27,BILLS AND BONDS,False,True,False
+P01GIS101226,1 Year GIS Discounted Mat- 10-Dec-26,BILLS AND BONDS,False,True,False
+P01GIS131126,1 Year GIS Discounted Mat 13-11-26,BILLS AND BONDS,False,True,False
+P01GIS141026,1 Year GIS Discounted Mat - 14-Oct-26,BILLS AND BONDS,False,True,False
+P01GIS210127,1 Year GIS Discounted Mat - 21-Jan-27,BILLS AND BONDS,False,True,False
+P01GIS250327,1 Year GIS Discounted Mat - 25-Mar-27,BILLS AND BONDS,False,True,False
+P02PFL031026,2 Year PIB Floater - Mat.03-Oct-26,BILLS AND BONDS,False,True,False
+P02PFL090127,2 Year PIB Floater - Mat.09-Jan-26,BILLS AND BONDS,False,True,False
+P02PFL121226,2 Year PIB Floater - Mat.12-Dec-26,BILLS AND BONDS,False,True,False
+P02PIB050828,2-Year PIB Zero Coupon Mat - 05-Aug-28,BILLS AND BONDS,False,True,False
+P02PIB150128,2-Year PIB Fixed Mat. Date 15-Jan-28,BILLS AND BONDS,False,True,False
+P02PIB160127,2-Year PIB Fixed Mat. Date 16-Jan-27,BILLS AND BONDS,False,True,False
+P02PIB170727,2-Year PIB Fixed Mat.Date 17-07-27,BILLS AND BONDS,False,True,False
+P02PIB200926,2-Year PIB Fixed Mat.Date 20-09-26,BILLS AND BONDS,False,True,False
+P03FRR020528,3 Year Fixed Rental Rate Mat.02-05-2028,BILLS AND BONDS,False,True,False
+P03FRR050829,3 Yr FRR GoP Hybrid Sukuk Mat- 05-Aug-29,BILLS AND BONDS,False,True,False
+P03FRR070328,3 Year Fixed Rental Rate Mat.07-03-28,BILLS AND BONDS,False,True,False
+P03FRR090128,3 Year Fixed Rental Rate Mat.09-01-28,BILLS AND BONDS,False,True,False
+P03FRR100527,3 Year Fixed Rental Rate - Mat.10-May-27,BILLS AND BONDS,False,True,False
+P03FRR141128,3 Year Fixed Rental Rate Mat 14-11-28,BILLS AND BONDS,False,True,False
+P03FRR180629,3 Yr FRR GoP Hybrid Sukuk Mat- 18-Jun-29,BILLS AND BONDS,False,True,False
+P03FRR180927,3 Year Fixed Rental Rate Mat. 18-09-27,BILLS AND BONDS,False,True,False
+P03FRR211027,3 Year Fixed Rental Rate Mat.21-10-27,BILLS AND BONDS,False,True,False
+P03FRR220129,3 Year Fixed Rental Rate Mat - 22-Jan-29,BILLS AND BONDS,False,True,False
+P03FRR240127,3 Year Fixed Rental Rate-Mat. 24-Jan-27,BILLS AND BONDS,False,True,False
+P03FRR280627,3 Year Fixed Rental Rate - Mat.28-Jun-27,BILLS AND BONDS,False,True,False
+P03FRR300528,3 Year Fixed Rental Rate Mat. 30-05-2028,BILLS AND BONDS,False,True,False
+P03FRR300928,3 Year Fixed Rental Rate Mat.30-09-2028,BILLS AND BONDS,False,True,False
+P03GHS101226,3-Month Dis Hybrid Sukuk Mat-10-Dec-26,BILLS AND BONDS,False,True,False
+P03GHS121126,3-Month Dis Hybrid Sukuk Mat-12-Nov-26,BILLS AND BONDS,False,True,False
+P03GHS151026,3 Month Dis Hybrid Sukuk Mat-15-Oct-26,BILLS AND BONDS,False,True,False
+P03GHS241226,3-Month Dis Hybrid Sukuk Mat-24-Dec-26,BILLS AND BONDS,False,True,False
+P03GHS261126,3-Month Dis Hybrid Sukuk Mat-26-Nov-26,BILLS AND BONDS,False,True,False
+P03GHS291026,3 Month Dis Hybrid Sukuk Mat-29-Oct-26,BILLS AND BONDS,False,True,False
+P03GVR190528,3 Yr Green Variable Rate - Mat.19-05-28,BILLS AND BONDS,False,True,False
+P03PFL070227,3 Year PIB Floater - Mat.07-Feb-27,BILLS AND BONDS,False,True,False
+P03PFL191026,P03PFL191026,BILLS AND BONDS,False,True,False
+P03PFL210926,P03PFL210926,BILLS AND BONDS,False,True,False
+P03PIB150129,3-Year PIB Fixed Mat. Date 15-Jan-29,BILLS AND BONDS,False,True,False
+P03PIB150227,3 Years Fixed PIB Mat.15-Feb-27,BILLS AND BONDS,False,True,False
+P03PIB160128,3 Year Fixed PIB - Mat.16-Jan-28,BILLS AND BONDS,False,True,False
+P03PIB170728,3-Year PIB Fixed Mat.Date 17-07-28,BILLS AND BONDS,False,True,False
+P03PIB190529,3 Year PIB Fixed -Mat 19-May-29,BILLS AND BONDS,False,True,False
+P03PIB200927,3 Years Fixed PIB - Mat.20-Sep-27,BILLS AND BONDS,False,True,False
+P03VRR090128,3 Yr Variable Rental Rate -Mat.09-01-28,BILLS AND BONDS,False,True,False
+P03VRR100527,3 Yr Variable Rental Rate -Mat.10-May-27,BILLS AND BONDS,False,True,False
+P03VRR180927,3 Yr Variable Rental Rate Mat 18-09-27,BILLS AND BONDS,False,True,False
+P03VRR211027,3 Yr Variable Rental Rate -Mat.21-Oct-27,BILLS AND BONDS,False,True,False
+P03VRR240127,3 Yr Variable Rental Rate -Mat.24-Jan-27,BILLS AND BONDS,False,True,False
+P03VRR280627,3 Yr Variable Rental Rate -Mat.28-Jun-27,BILLS AND BONDS,False,True,False
+P05FRR050831,5 Yr FRR GoP Hybrid Sukuk Mat- 05-Aug-31,BILLS AND BONDS,False,True,False
+P05FRR070330,5 Yr Fixed Rental Rate - Mat. 07-Mar-30,BILLS AND BONDS,False,True,False
+P05FRR090130,5 Yr Fixed Rental Rate - Mat. 09-Jan-30,BILLS AND BONDS,False,True,False
+P05FRR100529,5 Yr Fixed Rental Rate -Mat. 10-May-29,BILLS AND BONDS,False,True,False
+P05FRR141130,5 Year Fixed Rental Rate Mat 14-11-30,BILLS AND BONDS,False,True,False
+P05FRR180631,5 Yr FRR GoP Hybrid Sukuk Mat- 18-Jun-31,BILLS AND BONDS,False,True,False
+P05FRR180929,5 Yr Fixed Rental Rate Mat. 18-09-29,BILLS AND BONDS,False,True,False
+P05FRR211029,5 Yr Fixed Rental Rate - Mat. 21-Oct-29,BILLS AND BONDS,False,True,False
+P05FRR220131,5 Year Fixed Rental Rate Mat - 22-Jan-31,BILLS AND BONDS,False,True,False
+P05FRR240129,5 Yr Fixed Rental Rate -Mat. 24-Jan-29,BILLS AND BONDS,False,True,False
+P05FRR280629,5 Yr Fixed Rental Rate - Mat.28-Jun-29,BILLS AND BONDS,False,True,False
+P05FRR300530,5 Yr Fixed Rental Rate - Mat. 30-May-30,BILLS AND BONDS,False,True,False
+P05FRR300930,5 Year Fixed Rental Rate Mat.30-09-2030,BILLS AND BONDS,False,True,False
+P05PFL031029,5 Year PIB Floater - Mat.03-Oct-29,BILLS AND BONDS,False,True,False
+P05PFL050929,5 Year PIB Floater - Mat.05-Sep-29,BILLS AND BONDS,False,True,False
+P05PFL060428,P05PFL060428,BILLS AND BONDS,False,True,False
+P05PFL070229,5 Year PIB Floater - Mat.07-Feb-29,BILLS AND BONDS,False,True,False
+P05PFL090130,5 Year PIB Floater - Mat.09-Jan-30,BILLS AND BONDS,False,True,False
+P05PFL100828,5 Year PIB Floater - Mat.10-Aug-28,BILLS AND BONDS,False,True,False
+P05PFL121229,5 Year PIB Floater - Mat.12-Dec-29,BILLS AND BONDS,False,True,False
+P05PFL141129,5 Year PIB Floater - Mat.14-Nov-29,BILLS AND BONDS,False,True,False
+P05PFL141228,5 Year PIB Floater - Mat.14-Dec-28,BILLS AND BONDS,False,True,False
+P05PFL161127,P05PFL161127,BILLS AND BONDS,False,True,False
+P05PFL170430,5 Year PIB Floater - Mat.17-Apr-30,BILLS AND BONDS,False,True,False
+P05PFL171127,5 Year PIB Floater - Mat.17-Nov-27,BILLS AND BONDS,False,True,False
+P05PFL180429,5 Year PIB Floater - Mat.18-Apr-29,BILLS AND BONDS,False,True,False
+P05PFL191028,P05PFL191028,BILLS AND BONDS,False,True,False
+P05PFL210928,P05PFL210928,BILLS AND BONDS,False,True,False
+P05PFL270629,5 Year PIB Floater - Mat.27-Jun-29,BILLS AND BONDS,False,True,False
+P05PIB131027,P05PIB131027,BILLS AND BONDS,False,True,False
+P05PIB150131,5-Year PIB Fixed Mat. Date 15-Jan-31,BILLS AND BONDS,False,True,False
+P05PIB160130,5 Years Fixed PIB - Mat.16-Jan-30,BILLS AND BONDS,False,True,False
+P05PIB170129,5 Years Fixed PIB - Mat.17-Jan-29,BILLS AND BONDS,False,True,False
+P05PIB170730,5-Year PIB Fixed Mat. Date 17-07-30,BILLS AND BONDS,False,True,False
+P05PIB190531,5 Year PIB Fixed - Mat 19-May-31,BILLS AND BONDS,False,True,False
+P05PIB200929,5 Years Fixed PIB - Mat. 20-Sep-29,BILLS AND BONDS,False,True,False
+P05PIB290427,P05PIB290427,BILLS AND BONDS,False,True,False
+P05VRR020530,5 Yr Variable Rental Rate -Mat.02-05-30,BILLS AND BONDS,False,True,False
+P05VRR090130,5 Yr Variable Rental Rate -Mat.09-01-30,BILLS AND BONDS,False,True,False
+P05VRR100529,5 Yr Variable Rental Rate -Mat.10-May-29,BILLS AND BONDS,False,True,False
+P05VRR180929,5 Yr Variable Rental Rate - Mat.18-09-29,BILLS AND BONDS,False,True,False
+P05VRR211029,5 Yr Variable Rental Rate -Mat.21-Oct-29,BILLS AND BONDS,False,True,False
+P05VRR240129,5 Yr Variable Rental Rate -Mat.24-Jan-29,BILLS AND BONDS,False,True,False
+P05VRR280629,5 Yr Variable Rental Rate -Mat.28-06-29,BILLS AND BONDS,False,True,False
+P05VRR300530,5 Yr Variable Rental Rate - Mat.30-05-30,BILLS AND BONDS,False,True,False
+P06GHS010427,6-Month Dis Hybrid Sukuk Mat-01-Apr-27,BILLS AND BONDS,False,True,False
+P06GHS040227,6 Month Dis Hybrid Sukuk Mat-04-Feb-27,BILLS AND BONDS,False,True,False
+P06GHS040327,6-Month Dis Hybrid Sukuk Mat-04-Mar-27,BILLS AND BONDS,False,True,False
+P06GHS180227,6 Month Dis Hybrid Sukuk Mat-18-Feb-27,BILLS AND BONDS,False,True,False
+P06GHS210127,6 Month Dis Hybrid Sukuk Mat-21-Jan-27,BILLS AND BONDS,False,True,False
+P10FRR090135,10 Year Fixed Rental Rate Mat. 09-01-35,BILLS AND BONDS,False,True,False
+P10FRR180934,10 Year Fixed Rental Rate Mat. 18-09-34,BILLS AND BONDS,False,True,False
+P10FRR211034,10 Year Fixed Rental Rate Mat. 21-10-34,BILLS AND BONDS,False,True,False
+P10FRZ050836,10 Year FRR Zero Coupon Mat 05-Aug-36,BILLS AND BONDS,False,True,False
+P10FRZ141135,10 Year FRR Zero Coupon Mat 14-11-35,BILLS AND BONDS,False,True,False
+P10FRZ151035,10 YEAR FRR ZERO COUPON MAT. 15-OCT-35,BILLS AND BONDS,False,True,False
+P10FRZ220136,10 Year FRR Zero Coupon Mat - 22-Jan-36,BILLS AND BONDS,False,True,False
+P10FRZ240735,10 Year FRR Zero Coupon Mat.24-Jul-35,BILLS AND BONDS,False,True,False
+P10FRZ300535,10 Year FRR  Zero Coupon Mat.30-May-35,BILLS AND BONDS,False,True,False
+P10PFA221030,10 Year PIB Floater - Mat.22-Oct-30,BILLS AND BONDS,False,True,False
+P10PFL031034,10 Year PIB Floater - Mat.03-Oct-34,BILLS AND BONDS,False,True,False
+P10PFL041131,10 Year PIB Floater - Mat.14-Nov-31,BILLS AND BONDS,False,True,False
+P10PFL050934,10 Year PIB Floater - Mat.05-Sep-34,BILLS AND BONDS,False,True,False
+P10PFL070234,10 Year PIB Floater - Mat.07-Feb-34,BILLS AND BONDS,False,True,False
+P10PFL080136,10 Year PIB Floater Mat - 08-Jan-36,BILLS AND BONDS,False,True,False
+P10PFL090135,10 Year PIB Floater - Mat.09-Jan-35,BILLS AND BONDS,False,True,False
+P10PFL090828,10 Year PIB Floater - Mat.09-Aug-28,BILLS AND BONDS,False,True,False
+P10PFL100735,10-Year PIB Floating Rate Mat.Date100735,BILLS AND BONDS,False,True,False
+P10PFL121234,10 Year PIB Floater - Mat.12-Dec-34,BILLS AND BONDS,False,True,False
+P10PFL141134,10 Year PIB Floater - Mat.14-Nov-34,BILLS AND BONDS,False,True,False
+P10PFL141233,10 Year PIB Floater - Mat.14-Dec-33,BILLS AND BONDS,False,True,False
+P10PFL170435,10 Year PIB Floater - Mat.17-Apr-35,BILLS AND BONDS,False,True,False
+P10PFL180429,10 Year PIB Floater - Mat.18-Apr-29,BILLS AND BONDS,False,True,False
+P10PFL180434,10 Year PIB Floater - Mat.18-Apr-34,BILLS AND BONDS,False,True,False
+P10PFL180630,10 Year PIB Floater - Mat.18-Jun-30,BILLS AND BONDS,False,True,False
+P10PFL210229,10 Year PIB Floater - Mat.21-Feb-29,BILLS AND BONDS,False,True,False
+P10PFL210329,10 Year PIB Floater - Mat.21-Mar-29,BILLS AND BONDS,False,True,False
+P10PFL220829,P10PFL220829,BILLS AND BONDS,False,True,False
+P10PFL250729,10 Year PIB Floater - Mat.25-Jul-29,BILLS AND BONDS,False,True,False
+P10PFL270629,10 Year PIB Floater - Mat.27-Jun-29,BILLS AND BONDS,False,True,False
+P10PFL280628,10 Year PIB Floater - Mat.28-Jun-28,BILLS AND BONDS,False,True,False
+P10PFL290535,10 Year PIB Floater - Mat.29-May-35,BILLS AND BONDS,False,True,False
+P10PFL300529,10 Year PIB Floater - Mat.30-May-29,BILLS AND BONDS,False,True,False
+P10PFL310528,10 Year PIB Floater - Mat.31-May-28,BILLS AND BONDS,False,True,False
+P10PIB101133,10 Years Fixed PIB - Mat.10-Nov-33,BILLS AND BONDS,False,True,False
+P10PIB101230,P10PIB101230,BILLS AND BONDS,False,True,False
+P10PIB120728,P10PIB120728,BILLS AND BONDS,False,True,False
+P10PIB150136,10-Year PIB Fixed Mat. Date 15-Jan-36,BILLS AND BONDS,False,True,False
+P10PIB160135,10 Years Fixed PIB - Mat.16-Jan-35,BILLS AND BONDS,False,True,False
+P10PIB170735,10-Year PIB Fixed Mat. Date 17-07-35,BILLS AND BONDS,False,True,False
+P10PIB190536,10 Year PIB Fixed Mat - 19-May-36,BILLS AND BONDS,False,True,False
+P10PIB190929,P10PIB190929,BILLS AND BONDS,False,True,False
+P10PIB200934,10 Years Fixed PIB - Mat. 20-Sep-34,BILLS AND BONDS,False,True,False
+P10PIB291226,10 Years Fixed PIB - Mat.29-Dec-26,BILLS AND BONDS,False,True,False
+P10PIB301132,10 Year Fixed PIB - Mat.30-Nov-32,BILLS AND BONDS,False,True,False
+P10VRR020535,10 Yr Variable Rental Rate -Mat.02-05-35,BILLS AND BONDS,False,True,False
+P10VRR070335,10 Yr Variable Rental Rate -Mat.07-03-35,BILLS AND BONDS,False,True,False
+P10VRR090135,10 Yr Variable Rental Rate -Mat.09-01-35,BILLS AND BONDS,False,True,False
+P10VRR111235,10 Yr Variable Rental Rate Mat 11-Dec-35,BILLS AND BONDS,False,True,False
+P10VRR160436,10 Yr VRR GoP Hybrid Sukuk Mat-16-Apr-36,BILLS AND BONDS,False,True,False
+P10VRR180934,10 Yr Variable Rental Rate -Mat.18-09-34,BILLS AND BONDS,False,True,False
+P10VRR211034,10 Yr Variable Rental Rate -Mat.21-10-34,BILLS AND BONDS,False,True,False
+P10VRR220136,10 Yr Variable Rental Rate Mat-22-Jan-36,BILLS AND BONDS,False,True,False
+P10VRR230736,10 Yr VRR GoP Hybrid Sukuk Mat-23-Jul-36,BILLS AND BONDS,False,True,False
+P10VRR300535,10 Yr Variable Rental Rate-Mat.30-05-35,BILLS AND BONDS,False,True,False
+P10VRR300935,10Year Variable Rental Rate Mat.30-09-35,BILLS AND BONDS,False,True,False
+P15PIB050841,15 Year FRR zero Coupon Mat -05-Aug-41,BILLS AND BONDS,False,True,False
+P15PIB150141,15 Year FRR Zero Coupon Mat 15-Jan-41,BILLS AND BONDS,False,True,False
+P15PIB160435,15 Year PIB Fixed - Mat.16-Apr-35,BILLS AND BONDS,False,True,False
+P15PIB190640,15 Year PIB Fixed - Mat.19-June-40,BILLS AND BONDS,False,True,False
+P20PIB180831,20 Year PIB Fixed - Mat.18-Aug-31,BILLS AND BONDS,False,True,False
+P20PIB190939,20 Year PIB Fixed - Mat.19-Sep-39,BILLS AND BONDS,False,True,False
+P20PIB300828,20 Year PIB Fixed - Mat.30-Aug-28,BILLS AND BONDS,False,True,False
+P20PIB311026,20 Year PIB Fixed - Mat.31-Oct-26,BILLS AND BONDS,False,True,False
+PFSLTFC,Parwaz Green Bond TFC,BILLS AND BONDS,False,True,False
+PK01TB011026,1-Month Treasury Bill Mat - 01-Oct-26,BILLS AND BONDS,False,True,False
+PK01TB030926,1-Month Treasury Bills - 03-Sep-26,BILLS AND BONDS,False,True,False
+PK01TB060826,1 Month Treasury Bill Mat - 06-Aug-26,BILLS AND BONDS,False,True,False
+PK01TB170926,1-Month Treasury Bills- 17-Sep-26,BILLS AND BONDS,False,True,False
+PK01TB200826,1 Month Treasury Bill Mat - 20-Aug-26,BILLS AND BONDS,False,True,False
+PK01TB291026,1 Month Treasury Bills - 29-Oct-26,BILLS AND BONDS,False,True,False
+PK03TB011026,3 Month Treasury Bill Mat 01-Oct-26,BILLS AND BONDS,False,True,False
+PK03TB030926,3 Month Treasury Bill Mat - 03-Sep-26,BILLS AND BONDS,False,True,False
+PK03TB060826,3 Month Treasury Bill Mat - 06-Aug-26,BILLS AND BONDS,False,True,False
+PK03TB101226,3-Month Treasury Bills - 10-Dec-26,BILLS AND BONDS,False,True,False
+PK03TB121126,3-Month Treasury Bills- 12-Nov-26,BILLS AND BONDS,False,True,False
+PK03TB151026,3 Month Treasury Bill Mat - 15-Oct-26,BILLS AND BONDS,False,True,False
+PK03TB170926,3 MOnth Treasury Bill - Mat - 17-Sep-26,BILLS AND BONDS,False,True,False
+PK03TB200826,3 Month Treasury Bill Mat - 20-Aug-26,BILLS AND BONDS,False,True,False
+PK03TB241226,3 Month Treasury Bills - 24-Dec-26,BILLS AND BONDS,False,True,False
+PK03TB261126,3-Month Treasury Bill Mat - 04-Sep-26,BILLS AND BONDS,False,True,False
+PK03TB291026,3-Month Treasury Bills - 29-Oct-26,BILLS AND BONDS,False,True,False
+PK06TB010427,6 Month Treasury Bills - 1-Apr-26,BILLS AND BONDS,False,True,False
+PK06TB011026,6-Month Treasury Bills Mat 1-Oct-26,BILLS AND BONDS,False,True,False
+PK06TB030926,6 Month Treasury Bills mat - 03-Sep-26,BILLS AND BONDS,False,True,False
+PK06TB040227,6-Month Treasury Bills - 04-Feb-27,BILLS AND BONDS,False,True,False
+PK06TB040327,6-Month Treasury Bill Mat - 04-Mar-27,BILLS AND BONDS,False,True,False
+PK06TB060826,6 Months Treasury Bills Mat - 06-Aug-26,BILLS AND BONDS,False,True,False
+PK06TB070127,6 Month Treasury Bill Mat 07-Jan-27,BILLS AND BONDS,False,True,False
+PK06TB101226,6 Month Treasury Bill Mat - 10-Dec-26,BILLS AND BONDS,False,True,False
+PK06TB121126,6 Month Treasury Bill Mat - 12-Nov-26,BILLS AND BONDS,False,True,False
+PK06TB151026,6-Month Treasury Bills - 15-Oct-26,BILLS AND BONDS,False,True,False
+PK06TB180227,6-Month Treasury Bills- 18-Feb-27,BILLS AND BONDS,False,True,False
+PK06TB180327,6-Month Treasury Bills - 18-Mar-27,BILLS AND BONDS,False,True,False
+PK06TB200826,6 Month Treasury Bills Mat - 20-Aug-26,BILLS AND BONDS,False,True,False
+PK06TB241226,6 Month Treasury Bill - Mat - 24-Dec-26,BILLS AND BONDS,False,True,False
+PK06TB261126,6 Month Treasury Bill Mat - 26-Nov-26,BILLS AND BONDS,False,True,False
+PK06TB291026,6 Month Treasury Bills Mat - 29-Oct-26,BILLS AND BONDS,False,True,False
+PK12TB010427,12-Month Treasury Bills Mat 1-Apr-27,BILLS AND BONDS,False,True,False
+PK12TB011026,12-Month Treasury Bill Mat - 01-10-26,BILLS AND BONDS,False,True,False
+PK12TB020927,12-Month Treasury Bill Mat - 02-Sep-27,BILLS AND BONDS,False,True,False
+PK12TB030926,12 Month Treasury Bills -03-Sep-26,BILLS AND BONDS,False,True,False
+PK12TB040227,12 Month Treasury Bills Mat - 04-Feb-27,BILLS AND BONDS,False,True,False
+PK12TB040327,12 Month Treasury Bills Mat - 04-Mar-27,BILLS AND BONDS,False,True,False
+PK12TB050827,12-Month Treasury Bills - 05-Aug-27,BILLS AND BONDS,False,True,False
+PK12TB060826,12 Month Treasury Bills -06-Aug-26,BILLS AND BONDS,False,True,False
+PK12TB070127,12 Month Treasury Bills Mat - 07-Jan-27,BILLS AND BONDS,False,True,False
+PK12TB080727,12 Month Treasury Bill Mat 08-Jul-27,BILLS AND BONDS,False,True,False
+PK12TB100627,12 Month Treasury Bill Mat - 10-Jun-27,BILLS AND BONDS,False,True,False
+PK12TB101226,12 Months Treasury Bills Mat - 11-Dec-26,BILLS AND BONDS,False,True,False
+PK12TB121126,12 Month Treasury Bills Mat - 12-Nov-26,BILLS AND BONDS,False,True,False
+PK12TB130527,12 Month Treasury Bill Mat - 13-May-27,BILLS AND BONDS,False,True,False
+PK12TB150427,12 Month Treasury Bills - 15-Apr-27,BILLS AND BONDS,False,True,False
+PK12TB151026,12 Month Treasury Bills Mat- 15-10-26,BILLS AND BONDS,False,True,False
+PK12TB160927,12-Month Treasury Bills - 16-Sep-27,BILLS AND BONDS,False,True,False
+PK12TB170926,12-Month Treasury Bills Mat - 17-09-26,BILLS AND BONDS,False,True,False
+PK12TB180227,12-Month Treasury Bills- 18-Feb-27,BILLS AND BONDS,False,True,False
+PK12TB190827,12-Month Treasury Bills- 19-Aug-27,BILLS AND BONDS,False,True,False
+PK12TB200826,12 Month Treasury Bills Mat -20-Aug-26,BILLS AND BONDS,False,True,False
+PK12TB210127,12 Month Treasury Bills - 21-Jan-27,BILLS AND BONDS,False,True,False
+PK12TB220727,12 Month Treasury Bill Mat - 22-Jul-27,BILLS AND BONDS,False,True,False
+PK12TB240627,12 Month Treasury Bill - Mat - 24-Jun-27,BILLS AND BONDS,False,True,False
+PK12TB241226,12 Month Treasuy Bills Mat 24-Dec-26,BILLS AND BONDS,False,True,False
+PK12TB261126,12 Months Treasury Bills Mat - 26-nov-26,BILLS AND BONDS,False,True,False
+PK12TB270527,12 Month Treasury Bill Mat - 27-May-27,BILLS AND BONDS,False,True,False
+PK12TB290427,12 Month Treasury Bills Mat - 29-Apr-27,BILLS AND BONDS,False,True,False
+PK12TB291026,12 Month Treasury Bills Mat - 29-Oct-26,BILLS AND BONDS,False,True,False
+PK12TB300927,12 Month Treasury Bills - 30-Sep-27,BILLS AND BONDS,False,True,False
+PREMASTSC,At-Tahur Limited,BILLS AND BONDS,False,True,False
+SBLTFC,Samba Bank Ltd.(TF,BILLS AND BONDS,False,True,False
+SITCSC4,Sitara Chemical Ind. Ltd Sukuk,BILLS AND BONDS,False,True,False
+SNBLTFC3,Soneri Bank(TFC3),BILLS AND BONDS,False,True,False
+SNBLTFC4,SONERI BANK LIMITED (4TH ISSUE),BILLS AND BONDS,False,True,False
+THCCLSC,Thatta Cement Company Limited - Sukuk,BILLS AND BONDS,False,True,False
+TPLPTFC2,TPL Properties Limited,BILLS AND BONDS,False,True,False
+TPLSC,TPL Corp Ltd.(SC),BILLS AND BONDS,False,True,False
+TPLTFC3,TPLCorp(TFC3),BILLS AND BONDS,False,True,False
+UBLTFC5,United Bank(TFC5),BILLS AND BONDS,False,True,False
+786,786 Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+786R,786 Investment (Right),INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+AABS,Al-Abbas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+AAL,Agro Allianz Limited,TEXTILE SPINNING,False,False,False
+AASM,Al-Abid Silk Mills Limited,SYNTHETIC & RAYON,False,False,False
+AATM,Ali Asghar Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ABL,Allied Bank Limited,COMMERCIAL BANKS,False,False,False
+ABOT,Abbott Laboratories (Pakistan) Limited,PHARMACEUTICALS,False,False,False
+ABSON,Abson Industries Limited,"PAPER, BOARD & PACKAGING",False,False,False
+ACIETF,Alfalah Consumer Index (ETF),EXCHANGE TRADED FUNDS,True,False,False
+ACPL,Attock Cement Pakistan Limited,CEMENT,False,False,False
+ADAMS,Adam Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+ADMM,Artistic Denim Mills Limited,TEXTILE COMPOSITE,False,False,False
+ADOS,Ados Pakistan Limited,ENGINEERING,False,False,False
+ADTM,Adil Textile Mills Limited,TEXTILE SPINNING,False,False,False
+AEL,AEL Textile Limited,,False,False,False
+AGHA,Agha Steel Ind.Ltd,ENGINEERING,False,False,False
+AGIC,Askari General Insurance Company Limited,INSURANCE,False,False,False
+AGICR2,Askari General Insurance Co.Ltd.(Right),INSURANCE,False,False,False
+AGIL,Agriauto Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+AGL,Agritech Limited,FERTILIZER,False,False,False
+AGLNCPS,Agritech Non-Voting (Pref) Class A,FERTILIZER,False,False,False
+AGP,AGP Limited,PHARMACEUTICALS,False,False,False
+AGSML,Abdullah Shah Ghazi Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+AGTL,Al-Ghazi Tractors Limited,AUTOMOBILE ASSEMBLER,False,False,False
+AHCL,Arif Habib Corporation Limited,FERTILIZER,False,False,False
+AHL,Arif Habib Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+AHTM,Ahmad Hassan Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+AICL,Adamjee Insurance Company Limited,INSURANCE,False,False,False
+AIRLINK,Air Link Communication Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+AKBL,Askari Bank Limited,COMMERCIAL BANKS,False,False,False
+AKDCL,AKD Capital Limited,,False,False,False
+AKDHL,AKD Hospitality Limited,MISCELLANEOUS,False,False,False
+AKDSL,AKD Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+AKGL,Al-Khair Gadoon Limited,MISCELLANEOUS,False,False,False
+AKZO,Akzo Nobel Pakistan Limited,,False,False,False
+ALAC,Askari Life Assurance Company Limited,INSURANCE,False,False,False
+ALIFE,Adamjee Life Assurance Company Limited,INSURANCE,False,False,False
+ALNRS,Al-Noor Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+ALQT,Al-Qadir Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ALTN,Altern Energy Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+AMBL,Apna Microfinance Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+AMSL,Al-Mal Securities & Services Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+AMTEX,Amtex Limited,TEXTILE SPINNING,False,False,False
+ANL,Azgard Nine Limited,TEXTILE COMPOSITE,False,False,False
+ANNT,Annoor Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ANSM,Ansari Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+ANTM,AN Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+APL,Attock Petroleum Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+APOT,Apollo Textile Mills Limited,TEXTILE SPINNING,False,False,False
+AQTM,Al-Qaim Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ARCTM,Arctic Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ARM,Allied Rental Modaraba,,False,False,False
+ARMG,ARM Green Industries Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+ARPAK,Arpak International Investments Ltd.,MISCELLANEOUS,False,False,False
+ARPL,Archroma Pakistan Limited,CHEMICAL,False,False,False
+ARUJ,Aruj Industries Limited,TEXTILE COMPOSITE,False,False,False
+ASC,Al Shaheer Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+ASCR1,AL-Shaheer (R),,False,False,False
+ASHT,Ashfaq Textile Mills Limited,TEXTILE WEAVING,False,False,False
+ASIC,Asia Insurance Company Limited,INSURANCE,False,False,False
+ASL,Aisha Steel Mills Limited,ENGINEERING,False,False,False
+ASLCPS,Aisha Steel Convt (Pref) Right,ENGINEERING,False,False,False
+ASLPS,Aisha Steel Convertible (Pref),ENGINEERING,False,False,False
+ASRL,Associated Services Limited,JUTE,False,False,False
+ASTL,Amreli Steels Limited,ENGINEERING,False,False,False
+ASTM,Asim Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ATBA,Atlas Battery Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+ATIL,Atlas Insurance Limited,INSURANCE,False,False,False
+ATLH,Atlas Honda Limited,AUTOMOBILE ASSEMBLER,False,False,False
+ATRL,Attock Refinery Limited,REFINERY,False,False,False
+AVN,Avanceon Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+AWTX,Allawasaya Tex. & Finishing Mills Ltd,TEXTILE SPINNING,False,False,False
+AWWAL,Awwal Modaraba,,False,False,False
+AYTM,Ayesha Textile Mills Limited,,False,False,False
+AYZT,Ayaz Textile Mills Limited,TEXTILE WEAVING,False,False,False
+AZMT,Azmat Textile Mills Limited,TEXTILE SPINNING,False,False,False
+AZTM,Al-Azhar Textile Mills Limited,TEXTILE SPINNING,False,False,False
+BAFL,Bank Alfalah Limited,COMMERCIAL BANKS,False,False,False
+BAFS,Baba Farid Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+BAHL,Bank AL Habib Limited,COMMERCIAL BANKS,False,False,False
+BAPL,Bawany Air Products Limited,CHEMICAL,False,False,False
+BATA,Bata Pakistan Limited,LEATHER & TANNERIES,False,False,False
+BBFL,Big Bird Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+BCL,Bolan Castings Limited,ENGINEERING,False,False,False
+BCML,Babri Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+BECO,Beco Steel Limited,ENGINEERING,False,False,False
+BEEM,Beema-Pakistan Company Limited,INSURANCE,False,False,False
+BELA,Bela Automotives Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+BERG,Berger Paints Pakistan Limited,CHEMICAL,False,False,False
+BFAGRO,Barkat Frisian Agro Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+BFBIO,BF Biosciences Limited,PHARMACEUTICALS,False,False,False
+BFMOD,B.F. Modaraba,MODARABAS,False,False,False
+BGL,Baluchistan Glass Limited,GLASS & CERAMICS,False,False,False
+BHAT,Bhanero Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+BIFO,Biafo Industries Limited,CHEMICAL,False,False,False
+BIIC,Business & Industrial Insurance Company,INSURANCE,False,False,False
+BILF,Bilal Fibres Limited,TEXTILE SPINNING,False,False,False
+BIPL,BankIslami Pakistan Limited,COMMERCIAL BANKS,False,False,False
+BIPLS,BIPL Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+BLUEX,Blue-Ex Limited,TRANSPORT,False,False,False
+BML,Bank Makramah Limited,COMMERCIAL BANKS,False,False,False
+BNL,Bunnys Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+BNWM,Bannu Woollen Mills Limited,WOOLLEN,False,False,False
+BOK,The Bank of Khyber,COMMERCIAL BANKS,False,False,False
+BOP,The Bank of Punjab,COMMERCIAL BANKS,False,False,False
+BPBL,Balochistan Particle Board Limited,,False,False,False
+BPL,Burshane LPG (Pakistan) Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+BROT,Brothers Textile Mills Limited,TEXTILE SPINNING,False,False,False
+BRR,B.R.R. Guardian Modaraba,,False,False,False
+BRRG,B.R.R Guardian Limited,PROPERTY,False,False,False
+BTL,Blessed Textiles Limited,TEXTILE COMPOSITE,False,False,False
+BUXL,Buxly Paints Limited,CHEMICAL,False,False,False
+BWCL,Bestway Cement Limited,CEMENT,False,False,False
+BWHL,Baluchistan Wheels Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+BYCO,Byco Petroleum Pakistan Limited,REFINERY,False,False,False
+CASH,Calcorp Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+CCM,Crescent Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+CECL,Climax Engineering Company Limited,CABLE & ELECTRICAL GOODS,False,False,False
+CENI,Century Insurance Company Limited,INSURANCE,False,False,False
+CEPB,Century Paper & Board Mills Limited,"PAPER, BOARD & PACKAGING",False,False,False
+CFL,Crescent Fibres Limited,TEXTILE SPINNING,False,False,False
+CHAS,Chashma Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+CHBL,Chenab Limited,TEXTILE COMPOSITE,False,False,False
+CHCC,Cherat Cement Company Limited,CEMENT,False,False,False
+CJPL,Crescent Jute Products Limited,JUTE,False,False,False
+CLCPS,Chenab Limited (Pref),TEXTILE COMPOSITE,False,False,False
+CLOUD,Chakwal Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+CLOV,Clover Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+CLVL,Cordoba Logistics & Ventures Limited,TRANSPORT,False,False,False
+CNERGY,Cnergyico PK  Limited,REFINERY,False,False,False
+COLG,Colgate-Palmolive (Pakistan) Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+COST,(Colony) Sarhad Textile Mills Limited,,False,False,False
+COTT,,TEXTILE COMPOSITE,False,False,False
+CPAL,Capital Assets Leasing Corporation,LEASING COMPANIES,False,False,False
+CPHL,Citi Pharma Ltd.,PHARMACEUTICALS,False,False,False
+CPPL,Cherat Packaging Limited,"PAPER, BOARD & PACKAGING",False,False,False
+CRTM,The Crescent Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+CSAP,Crescent Steel & Allied Products Limited,ENGINEERING,False,False,False
+CSIL,Crescent Star Insurance Limited,INSURANCE,False,False,False
+CSILR3,Crescent Star Insurance Limited (Right),INSURANCE,False,False,False
+CSM,Cresent Standard Modaraba,MODARABAS,False,False,False
+CTM,Colony Textile Mills Limited,TEXTILE SPINNING,False,False,False
+CWSM,Chakwal Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+CYAN,Cyan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DAAG,Data Agro Limited,CHEMICAL,False,False,False
+DADX,Dadex Eternit Limited,ENGINEERING,False,False,False
+DATM,Data Textiles Limited,,False,False,False
+DAWH,Dawood Hercules Corporation Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DBCI,Dadabhoy Cement Industries Limited,CEMENT,False,False,False
+DBSL,Dadabhoy Sack Limited,"PAPER, BOARD & PACKAGING",False,False,False
+DCL,Dewan Cement Limited,CEMENT,False,False,False
+DCM,Dawood Capital Management Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DCR,Dolmen City REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+DCTL,Dadabhoy Construction Technology Limited,MISCELLANEOUS,False,False,False
+DEL,Dawood Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DFML,Dewan Farooque Motors Limited,AUTOMOBILE ASSEMBLER,False,False,False
+DFSM,Dewan Farooque Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+DGKC,D.G. Khan Cement Company Limited,CEMENT,False,False,False
+DHPL,DH Partners Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DIIL,Diamond Industries Limited,MISCELLANEOUS,False,False,False
+DINT,Din Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DKL,Drekkar Kingsway Limited,ENGINEERING,False,False,False
+DKTM,Dewan Khalid Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DLL,Dawood Lawrencepur Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+DMC,D.M. Corporation Limited.,TEXTILE SPINNING,False,False,False
+DMIL,D.M. Industries Limited,TEXTILE SPINNING,False,False,False
+DMTM,Dewan Mushtaq Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DMTX,D.M. Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DNCC,Dandot Cement Company Limited,CEMENT,False,False,False
+DOL,Descon Oxychem Limited,CHEMICAL,False,False,False
+DOLCPS,Descon Oxychem Limited (12%Non-Voting Pref),CHEMICAL,False,False,False
+DOMF,Dominion Stock Fund Limited,,False,False,False
+DSFL,Dewan Salman Fibre Limited,SYNTHETIC & RAYON,False,False,False
+DSIL,D.S. Industries Limited,TEXTILE SPINNING,False,False,False
+DSL,Dost Steels Limited,ENGINEERING,False,False,False
+DSML,Dar-es-Salaam Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DWAE,Dewan Automotive Engineering Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+DWSM,Dewan Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+DWTM,Dewan Textile Mills Limited,TEXTILE SPINNING,False,False,False
+DYNO,Dynea Pakistan Limited,CHEMICAL,False,False,False
+ECOP,Ecopack Limited,MISCELLANEOUS,False,False,False
+EFERT,Engro Fertilizers Limited,FERTILIZER,False,False,False
+EFGH,EFG Hermes Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+EFOODS,Engro Foods Limited,,False,False,False
+EFUG,EFU General Insurance Limited,INSURANCE,False,False,False
+EFUL,EFU Life Assurance Limited,INSURANCE,False,False,False
+EFULR,EFU Life Assurance Limited Right,INSURANCE,False,False,False
+ELCM,Elahi Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+ELSM,Ellcot Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+EMCO,Emco Industries Limited,CABLE & ELECTRICAL GOODS,False,False,False
+ENGL,English Leasing Limited,LEASING COMPANIES,False,False,False
+ENGRO,Engro Corporation Limited,FERTILIZER,False,False,False
+ENGROH,Engro Holdings Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+EPCL,Engro Polymer & Chemicals Limited,CHEMICAL,False,False,False
+EPCLPS,Engro Poly(Pref),CHEMICAL,False,False,False
+EPCLR1,,CHEMICAL,False,False,False
+EPQL,Engro Powergen Qadirpur Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+ESBL,Escorts Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+EWIC,East West Insurance Company Limited,INSURANCE,False,False,False
+EWICR1,East West (R),,False,False,False
+EWLA,East West Life Assurance Company Limited,INSURANCE,False,False,False
+EXIDE,Exide Pakistan Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+EXTR,Extraction (Pakistan) Limited,,False,False,False
+FABL,Faysal Bank Limited,COMMERCIAL BANKS,False,False,False
+FAEL,Fatima Enterprises Limited,TEXTILE SPINNING,False,False,False
+FANM,First Al-Noor Modaraba,MODARABAS,False,False,False
+FASM,Faisal Spinning Mills Limited,TEXTILE COMPOSITE,False,False,False
+FATIMA,Fatima Fertilizer Company Limited,FERTILIZER,False,False,False
+FCCL,Fauji Cement Company Limited,CEMENT,False,False,False
+FCEL,First Capital Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FCEPL,Frieslandcampina Engro Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+FCIBL,First Credit and Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FCL,Fast Cables Limited,CABLE & ELECTRICAL GOODS,False,False,False
+FCONM,First Constellation Modaraba,MODARABAS,False,False,False
+FCSC,First Capital Securities Corporation,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FDIBL,First Dawood Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FDMF,First Dawood Mutual Fund,CLOSE - END MUTUAL FUND,False,False,False
+FDPL,First Dawood Properties Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FECM,First Elite Capital Modaraba,MODARABAS,False,False,False
+FECTC,Fecto Cement Limited,CEMENT,False,False,False
+FEM,First Equity Modaraba,MODARABAS,False,False,False
+FEROZ,Ferozsons Laboratories Limited,PHARMACEUTICALS,False,False,False
+FFBL,Fauji Fertilizer Bin Qasim Limited,FERTILIZER,False,False,False
+FFC,Fauji Fertilizer Company Limited,FERTILIZER,False,False,False
+FFL,Fauji Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+FFLM,First Fidelity Leasing Modaraba,MODARABAS,False,False,False
+FFLNV,,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+FFLR1,Fauji Foods Ltd(R),,False,False,False
+FHAM,First Habib Modaraba,MODARABAS,False,False,False
+FIBLM,First IBL Modaraba,MODARABAS,False,False,False
+FIL,Fateh Industries Limited,LEATHER & TANNERIES,False,False,False
+FIM,First Investec Modaraba,MODARABAS,False,False,False
+FIMM,First Imrooz Modaraba,MODARABAS,False,False,False
+FLYNG,Flying Cement Company Limited,CEMENT,False,False,False
+FLYNGR1,Flying Cement(R),CEMENT,False,False,False
+FML,Feroze1888 Mills Limited,TEXTILE COMPOSITE,False,False,False
+FNBM,First National Bank Modaraba,MODARABAS,False,False,False
+FNEL,First National Equities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+FPJM,First Punjab Modaraba,MODARABAS,False,False,False
+FPRM,First Paramount Modaraba,MODARABAS,False,False,False
+FPRMR2,First Paramount Modaraba(Right),MODARABAS,False,False,False
+FRCL,Frontier Ceramics Limited,GLASS & CERAMICS,False,False,False
+FRSM,Faran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+FSWL,Fateh Sports Wear Limited,TEXTILE COMPOSITE,False,False,False
+FTHM,Fateh Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+FTMM,First Treet Manufacturing Modaraba,MODARABAS,False,False,False
+FTSM,First Tri-Star Modaraba,MODARABAS,False,False,False
+FUDLM,First UDL Modaraba,,False,False,False
+FZCM,Fazal Cloth Mills Limited,TEXTILE COMPOSITE,False,False,False
+GADT,Gadoon Textile Mills Limited,TEXTILE SPINNING,False,False,False
+GAIL,Ghani Automobile Industries Limited,AUTOMOBILE ASSEMBLER,False,False,False
+GAILR1,,,False,False,False
+GAL,Ghandhara Automobiles Limited,AUTOMOBILE ASSEMBLER,False,False,False
+GAMON,Gammon Pakistan Limited,MISCELLANEOUS,False,False,False
+GASF,Golden Arrow Selected Stocks,CLOSE - END MUTUAL FUND,False,False,False
+GATI,Gatron (Industries) Limited,SYNTHETIC & RAYON,False,False,False
+GATM,Gul Ahmed Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+GCIL,Ghani Chemical Industries Limited,CHEMICAL,False,False,False
+GCILB,Ghani Chemical Industries Limited (B),,False,False,False
+GCWL,Ghani Chemworld Limited,CHEMICAL,False,False,False
+GCWLPRS,Ghani Chemworld Limited(PRS),CHEMICAL,False,False,False
+GCWLR,Ghani Chemworld Limited Right,CHEMICAL,False,False,False
+GDL,Ghani Dairies Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+GEMBCEM,Burj Clean Energy Modaraba(GEM),MODARABAS,False,False,True
+GEMBLUEX,Blue-Ex Limited (GEM),TRANSPORT,False,False,True
+GEMMEL,Mughal Energy Limited(GEM),POWER GENERATION & DISTRIBUTION,False,False,True
+GEMNETS,Nets International Communication Limited,TECHNOLOGY & COMMUNICATION,False,False,True
+GEMPACRA,The Pakistan Credit Rating Agency Ltd,MISCELLANEOUS,False,False,True
+GEMPAPL,Pak Agro Packaging Limited(GEM),"PAPER, BOARD & PACKAGING",False,False,True
+GEMSPNL,Supernet Limited,TECHNOLOGY & COMMUNICATION,False,False,True
+GEMUNSL,Universal Network Systems Limited(GEM),,False,False,True
+GENP,Genertech Pakistan Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+GFIL,Ghazi Fabrics International Limited,TEXTILE COMPOSITE,False,False,False
+GGGL,Ghani Global Glass Limited,GLASS & CERAMICS,False,False,False
+GGGLR1,Ghani Global(R),,False,False,False
+GGL,Ghani Global Holdings Limited,CHEMICAL,False,False,False
+GGLR1,Ghani Global(R),,False,False,False
+GHGL,Ghani Glass Limited,GLASS & CERAMICS,False,False,False
+GHGLR1,,GLASS & CERAMICS,False,False,False
+GHNI,Ghandhara Industries Limited,AUTOMOBILE ASSEMBLER,False,False,False
+GHNL,Ghandhara Nissan Limited,AUTOMOBILE ASSEMBLER,False,False,False
+GIL,Good Luck Industries Ltd.,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+GLAT,Glamour Textile Mills Limited,TEXTILE SPINNING,False,False,False
+GLAXO,GlaxoSmithKline Pakistan Limited,PHARMACEUTICALS,False,False,False
+GLOT,Globe Textile Mills Limited,TEXTILE SPINNING,False,False,False
+GLPL,Gillette Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+GOC,GOC (Pak) Limited.,MISCELLANEOUS,False,False,False
+GOEM,Globe Textile Mills (OE) Limited,TEXTILE SPINNING,False,False,False
+GRR,Globe Residency REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+GRYL,Grays Leasing Limited,LEASING COMPANIES,False,False,False
+GSKCH,GlaxoSmithKline Consumer Healthcare,PHARMACEUTICALS,False,False,False
+GSPM,Gulshan Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+GTECH,G3 Technologies Limited,,False,False,False
+GTECHBR,G3 Technologies Ltd.CLASS B,,False,False,False
+GTYR,Ghandhara Tyre & Rubber Company Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+GUSM,Gulistan Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+GUTM,Gulistan Textile Mills Limited,TEXTILE SPINNING,False,False,False
+GVGL,Ghani Value Glass Limited,GLASS & CERAMICS,False,False,False
+GWLC,Gharibwal Cement Limited,CEMENT,False,False,False
+HABSM,Habib Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+HACC,Hashimi Can Company Limited,MISCELLANEOUS,False,False,False
+HADC,Haydari Construction Company Limited,MISCELLANEOUS,False,False,False
+HAEL,Hala Enterprises Limited,TEXTILE COMPOSITE,False,False,False
+HAFL,Hafiz Limited,TEXTILE COMPOSITE,False,False,False
+HAJT,Hajra Textile Mills Limited,TEXTILE SPINNING,False,False,False
+HAL,Habib-ADM Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+HALEON,Haleon Pakistan Limited,PHARMACEUTICALS,False,False,False
+HASCOL,Hascol Petroleum Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+HASCOLR1,Hascol Petre(R),OIL & GAS MARKETING COMPANIES,False,False,False
+HATM,Hamid Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+HBL,Habib Bank Limited,COMMERCIAL BANKS,False,False,False
+HBLTETF,HBL Total Treasury ETF,EXCHANGE TRADED FUNDS,True,False,False
+HCAR,Honda Atlas Cars (Pakistan) Limited,AUTOMOBILE ASSEMBLER,False,False,False
+HCL,Hallmark Company Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+HGFA,HBL Growth Fund,CLOSE - END MUTUAL FUND,False,False,False
+HICL,Habib Insurance Company Limited,INSURANCE,False,False,False
+HIFA,HBL Investment Fund,CLOSE - END MUTUAL FUND,False,False,False
+HINO,Hinopak Motors Limited,AUTOMOBILE ASSEMBLER,False,False,False
+HINOON,Highnoon Laboratories Limited,PHARMACEUTICALS,False,False,False
+HIRAT,Hira Textile Mills Limited,TEXTILE SPINNING,False,False,False
+HKKT,Hakkim Textile Mills Limited,TEXTILE WEAVING,False,False,False
+HMB,Habib Metropolitan Bank Limited,COMMERCIAL BANKS,False,False,False
+HMICL,Hallmark Insurance Company Limited,INSURANCE,False,False,False
+HMIM,Haji Mohammad Ismail Mills Limited,TEXTILE SPINNING,False,False,False
+HMM,Habib Metro Mod,,False,False,False
+HPL,Hoechst Pakistan Limited,PHARMACEUTICALS,False,False,False
+HRPL,Habib Rice Product Limited.,SUGAR & ALLIED INDUSTRIES,False,False,False
+HSM,Husein Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+HSMCPS,Husein Sugar(Pref),SUGAR & ALLIED INDUSTRIES,False,False,False
+HSMPSR,Husein Sugar(R),,False,False,False
+HSMR1,,SUGAR & ALLIED INDUSTRIES,False,False,False
+HSPI,Huffaz Seamless Pipe Industries Limited,ENGINEERING,False,False,False
+HTL,Hi-Tech Lubricants Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+HUBC,The Hub Power Company Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+HUMNL,Hum Network Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+HUSI,Husein Industries Limited,PROPERTY,False,False,False
+HWQS,Haseeb Waqas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+IBFL,Ibrahim Fibres Limited,SYNTHETIC & RAYON,False,False,False
+IBLHL,IBL HealthCare Limited,PHARMACEUTICALS,False,False,False
+ICCI,ICC Industries Limited,TEXTILE WEAVING,False,False,False
+ICCT,ICC Textiles Limited,TEXTILE WEAVING,False,False,False
+ICI,ICI Pakistan Limited,CHEMICAL,False,False,False
+ICIBL,Invest Capital Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+ICL,Ittehad Chemicals Limted,CHEMICAL,False,False,False
+ICLR1,,CHEMICAL,False,False,False
+IDEAL,Ideal Dynamics Limited,TEXTILE SPINNING,False,False,False
+IDRT,Idrees Textile Mills Limited,TEXTILE SPINNING,False,False,False
+IDSM,Ideal Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+IDYM,Indus Dyeing & Manufacturing Co. Limited,TEXTILE SPINNING,False,False,False
+IFSL,Invest & Finance Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+IGIBL,IGI Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+IGIHL,IGI Holdings Limited,INSURANCE,False,False,False
+IGIIL,IGI Insurance Limited,INSURANCE,False,False,False
+IGIL,IGI Life Insurance Limited,INSURANCE,False,False,False
+ILP,Interloop Limited,TEXTILE COMPOSITE,False,False,False
+ILTM,Island Textile Mills Limited,,False,False,False
+IMAGE,Image Pakistan Limited,APPAREL,False,False,False
+IMAGER1,Image Pak Ltd(R),,False,False,False
+IML,Imperial  Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+IMS,Intermarket Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+IMSL,Imperial Sugar Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+INDU,Indus Motor Company Limited,AUTOMOBILE ASSEMBLER,False,False,False
+INIL,International Industries Limited,ENGINEERING,False,False,False
+INKL,International Knitwear Limited,APPAREL,False,False,False
+INL,,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+INMF,Investec Mutual Fund Limited,CLOSE - END MUTUAL FUND,False,False,False
+IPAK,International Packaging Films Limited,"PAPER, BOARD & PACKAGING",False,False,False
+IREIT,Image REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+ISHT,Ishtiaq Textile Mills Limited,TEXTILE SPINNING,False,False,False
+ISIL,Ismail Industries Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+ISL,International Steels Limited,ENGINEERING,False,False,False
+ISTM,Ishaq Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+ITANZ,Itanz Technologies Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+ITSL,Investec Securities Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+ITTEFAQ,Ittefaq Iron Industries Limited,ENGINEERING,False,False,False
+JATM,J.A. Textile Mills Limited,TEXTILE SPINNING,False,False,False
+JDMT,Janana De Malucho Textile Mills Limited,TEXTILE SPINNING,False,False,False
+JDWS,JDW Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+JGICL,Jubilee General Insurance Company Ltd.,INSURANCE,False,False,False
+JKSM,J.K. Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+JLICL,Jubilee Life Insurance Company Limited,INSURANCE,False,False,False
+JOPP,Johnson & Phillips (Pakistan) Limited,CABLE & ELECTRICAL GOODS,False,False,False
+JOVC,Javed Omer Vohra & Company Limited,,False,False,False
+JPGL,Japan Power Generation Limited,,False,False,False
+JSBL,JS Bank Limited,COMMERCIAL BANKS,False,False,False
+JSBLR1,JS Bank Limited Right (R),,False,False,False
+JSCL,Jahangir Siddiqui & Co. Ltd.,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+JSCLR1,Jahangi Sidd(R),,False,False,False
+JSGBETF,JS Global Banking Sector(ETF),EXCHANGE TRADED FUNDS,True,False,False
+JSGCL,JS Global Capital Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+JSIL,JS Investments Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+JSMFETF,JS Momentum Factor Exchange Traded Fund,EXCHANGE TRADED FUNDS,True,False,False
+JSML,Jauharabad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+JSRR,JS Rental REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+JUBS,Jubilee Spinning & Weaving Mills Ltd.,TEXTILE COMPOSITE,False,False,False
+JVDC,Javedan Corporation Limited,PROPERTY,False,False,False
+JVDCPS,Javedan Corporation (Pref),PROPERTY,False,False,False
+JVDCR1,,CEMENT,False,False,False
+KACM,Karim Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+KAKL,Kaiser Arts & Krafts Limited,TEXTILE COMPOSITE,False,False,False
+KAPCO,Kot Addu Power Company Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+KASBM,KASB Modaraba,,False,False,False
+KCL,Karam Ceramics Limited,GLASS & CERAMICS,False,False,False
+KEL,K-Electric Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+KHSM,Khurshid Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+KHTC,Khyber Tobacco Company Limited,TOBACCO,False,False,False
+KHYT,Khyber Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+KML,Kohinoor Mills Limited,TEXTILE COMPOSITE,False,False,False
+KOHC,Kohat Cement Company Limited,CEMENT,False,False,False
+KOHE,Kohinoor Energy Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+KOHP,Kohinoor Power Company Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+KOHTM,Kohat Textile Mills Limited,TEXTILE SPINNING,False,False,False
+KOIL,Kohinoor Industries Limited,TEXTILE COMPOSITE,False,False,False
+KOSM,Kohinoor Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+KPUS,Khairpur Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+KSBP,KSB Pumps Company Limited,ENGINEERING,False,False,False
+KSTM,Khalid Siraj Textile Mills Limited,TEXTILE SPINNING,False,False,False
+KTML,Kohinoor Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+LCI,Lucky Core Industries Limited,CHEMICAL,False,False,False
+LEUL,Leather Up Limited,LEATHER & TANNERIES,False,False,False
+LINDE,Linde Pakistan Limited,CHEMICAL,False,False,False
+LIVEN,Liven Pharma Limited,PHARMACEUTICALS,False,False,False
+LIVENR,Liven Pharma Limited(Right),PHARMACEUTICALS,False,False,False
+LMSM,Landmark Spinning Industries Limited,TEXTILE SPINNING,False,False,False
+LOADS,Loads Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+LOADSR1,LOADS Limited (Right),AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+LOTCHEM,Lotte Chemical Pakistan Limited,CHEMICAL,False,False,False
+LPCL,Lafarge Pakistan Cement Limited,CEMENT,False,False,False
+LPGL,Leiner Pak Gelatine Limited,CHEMICAL,False,False,False
+LPL,Lalpir Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+LSECL,LSE Capital Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+LSECLR,LSE Capital Limited.(Right),INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+LSEFSL,LSE Financial Services Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+LSEPL,LSE Proptech Limited,,False,False,False
+LSEVL,LSE Ventures Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+LSEVLR,LSE Ventures Limited(RIGHT),INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+LUCK,Lucky Cement Limited,CEMENT,False,False,False
+MACFL,MACPAC Films Limited,"PAPER, BOARD & PACKAGING",False,False,False
+MACTER,Macter International Limited,PHARMACEUTICALS,False,False,False
+MARI,Mari Energies Limited,OIL & GAS EXPLORATION COMPANIES,False,False,False
+MCB,MCB Bank Limited,COMMERCIAL BANKS,False,False,False
+MCBAH,MCB-Arif Habib Savings and Invest,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+MCBIM,MCB Investment Management Limited.,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+MDTL,Media Times Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+MDTM,Mehr Dastgir Textile Mills Limited,TEXTILE SPINNING,False,False,False
+MEBL,Meezan Bank Limited,COMMERCIAL BANKS,False,False,False
+MEHT,Mehmood Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+MERIT,Merit Packaging Limited,"PAPER, BOARD & PACKAGING",False,False,False
+MERITR1,,"PAPER, BOARD & PACKAGING",False,False,False
+META,MetaTech Trading Limited,,False,False,False
+MFFL,Mitchells Fruit Farms Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+MFFLR1,Mitchells Fruit Farms Limited(Right),FOOD & PERSONAL CARE PRODUCTS,False,False,False
+MFL,Matco Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+MFTM,Mohammad Farooq Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+MIIETF,Mahaana Islamic Index ETF,EXCHANGE TRADED FUNDS,True,False,False
+MIRKS,Mirpurkhas Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+MLCF,Maple Leaf Cement Factory Limited,CEMENT,False,False,False
+MLCFR1,Maple Leaf (R),,False,False,False
+MODAM,Modaraba Al-Mali,,False,False,False
+MODAMR1,MODARABA AL-MALI (R),MODARABAS,False,False,False
+MOHE,Mohib Exports Limited,TEXTILE WEAVING,False,False,False
+MOIL,Morafco Industries Limited,,False,False,False
+MOON,Moonlite (Pak) Limited,WOOLLEN,False,False,False
+MQTM,Maqbool Textile Mills Limited,TEXTILE SPINNING,False,False,False
+MRNS,Mehran Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+MSCL,Metropolitan Steel Corporation Limited,ENGINEERING,False,False,False
+MSOT,Masood Textile Mills Limited,APPAREL,False,False,False
+MSOTPS,Masood Textile (Pref),APPAREL,False,False,False
+MTIL,Mian Textile Industries Limited,TEXTILE COMPOSITE,False,False,False
+MTL,Millat Tractors Limited,AUTOMOBILE ASSEMBLER,False,False,False
+MUBT,Mubarak Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+MUGHAL,Mughal Iron & Steel Industries Limited,ENGINEERING,False,False,False
+MUGHALC,Mughal Iron & Steel Industries Ltd(C),ENGINEERING,False,False,False
+MUGHALR1,Mughal Iron (R),,False,False,False
+MUKT,Mukhtar Textile Mills Limited,TEXTILE SPINNING,False,False,False
+MUREB,Murree Brewery Company Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+MWMP,Mandviwala Mauser Plastic Industries,MISCELLANEOUS,False,False,False
+MZNPETF,Meezan Pakistan ETF,EXCHANGE TRADED FUNDS,True,False,False
+MZSM,Mirza Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+NAFL,National Fibres Limited,SYNTHETIC & RAYON,False,False,False
+NAGC,Nagina Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+NATF,National Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+NATM,Nadeem Textile Mills Limited,TEXTILE SPINNING,False,False,False
+NBP,National Bank of Pakistan,COMMERCIAL BANKS,False,False,False
+NBPGETF,NBP Pakistan  Growth ETF,EXCHANGE TRADED FUNDS,True,False,False
+NCL,Nishat Chunian Limited,TEXTILE COMPOSITE,False,False,False
+NCML,Nazir Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+NCPL,Nishat Chunian Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+NESTLE,Nestle Pakistan Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+NETSOL,NetSol Technologies Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+NEXT,Next Capital Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+NIB,NIB Bank Limited,COMMERCIAL BANKS,False,False,False
+NICL,Nimir Industrial Chemicals Limited,CHEMICAL,False,False,False
+NINA,Nina Industries Limited,TEXTILE COMPOSITE,False,False,False
+NITGETF,NIT Pakistan Gateway ETF,EXCHANGE TRADED FUNDS,True,False,False
+NMFL,Nirala MSR Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+NML,Nishat Mills Limited,TEXTILE COMPOSITE,False,False,False
+NNAR,Naya Nazimabad Apartment REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+NONS,Noon Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+NORS,Noor Silk Mills Limited,SYNTHETIC & RAYON,False,False,False
+NPL,Nishat Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+NPSM,N. P. Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+NRL,National Refinery Limited,REFINERY,False,False,False
+NRSL,Nimir Resins Limited,CHEMICAL,False,False,False
+NSRM,The National Silk & Rayon Mills Limited,SYNTHETIC & RAYON,False,False,False
+OBOY,Oilboy Energy Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+OBOYR1,Oilboy Energy(R),OIL & GAS MARKETING COMPANIES,False,False,False
+OCTOPUS,Octopus Digital Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+OGDC,Oil & Gas Development Company Limited,OIL & GAS EXPLORATION COMPANIES,False,False,False
+OLPL,OLP Financial Services Pakistan Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+OLPM,OLP Modaraba,MODARABAS,False,False,False
+OLSM,Olympia Spinning and Weaving Mills Limited,TEXTILE SPINNING,False,False,False
+OML,Olympia Mills Limited,MISCELLANEOUS,False,False,False
+ORIXM,Orix Modaraba,MODARABAS,False,False,False
+ORM,Orient Rental Mod,MODARABAS,False,False,False
+OTSU,Otsuka Pakistan Limited,PHARMACEUTICALS,False,False,False
+PABC,Pakistan Aluminium Beverage Cans Limited,MISCELLANEOUS,False,False,False
+PACE,Pace (Pakistan) Limited,PROPERTY,False,False,False
+PAEL,Pak Elektron Limited,CABLE & ELECTRICAL GOODS,False,False,False
+PAKCEM,Pakcem Limited,CEMENT,False,False,False
+PAKD,Pak Datacom Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+PAKL,Pak Leather Crafts Limited,LEATHER & TANNERIES,False,False,False
+PAKMI,First Pak Modaraba,,False,False,False
+PAKOXY,Pakistan Oxygen Limited,CHEMICAL,False,False,False
+PAKQATAR,Pak Qatar Family Takaful Limited,INSURANCE,False,False,False
+PAKRI,Pakistan Reinsurance Company Limited,INSURANCE,False,False,False
+PAKT,Pakistan Tobacco Company Limited,TOBACCO,False,False,False
+PASL,Pervez Ahmed Consultancy Services Ltd.,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+PASM,Paramount Spinning Mills Limited,TEXTILE COMPOSITE,False,False,False
+PCAL,Pakistan Cables Limited,CABLE & ELECTRICAL GOODS,False,False,False
+PCML,Punjab Cotton Mill,TEXTILE WEAVING,False,False,False
+PDGH,Prudential Discourt & Guarantee House Lt,,False,False,False
+PECO,Pakistan Engineering Company Limited,ENGINEERING,False,False,False
+PGCL,Pakistan Gum & Chemicals Limited,CHEMICAL,False,False,False
+PGF,PICIC Growth Fund,CLOSE - END MUTUAL FUND,False,False,False
+PGIC,Pakistan Guarantee Insurance Company Limited,INSURANCE,False,False,False
+PGLC,Pak-Gulf Leasing Company Limited,LEASING COMPANIES,False,False,False
+PHDL,Pakistan Hotels Developers Limited,MISCELLANEOUS,False,False,False
+PIAA,Pakistan International Airlines Corp,,False,False,False
+PIAB,Pakistan International Airlines Corporat,,False,False,False
+PIAHCLA,PIA Holding Company Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+PIAHCLB,PIA Holding Company LimitedB,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+PIBTL,Pakistan International Bulk Terminal,TRANSPORT,False,False,False
+PICL,Pakistan Industrial & Commercial Leasing,LEASING COMPANIES,False,False,False
+PICT,Pakistan International Container,TRANSPORT,False,False,False
+PIF,PICIC Investment Fund,CLOSE - END MUTUAL FUND,False,False,False
+PIL,PICIC Insurance Limited,INSURANCE,False,False,False
+PIM,Popular Islamic Modaraba,MODARABAS,False,False,False
+PINL,Premier Insurance Limited,INSURANCE,False,False,False
+PIOC,Pioneer Cement Limited,CEMENT,False,False,False
+PKGI,The Pakistan General Insurance Co. Ltd.,INSURANCE,False,False,False
+PKGP,Pakgen Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+PKGS,Packages Limited,"PAPER, BOARD & PACKAGING",False,False,False
+PMI,First Prudential Modaraba,MODARABAS,False,False,False
+PMPK,Philip Morris (Pakistan) Limited,TOBACCO,False,False,False
+PMRS,The Premier Sugar Mills,SUGAR & ALLIED INDUSTRIES,False,False,False
+PNGRS,Pangrio Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+PNSC,Pakistan National Shipping Corporation,TRANSPORT,False,False,False
+POL,Pakistan Oilfields Limited,OIL & GAS EXPLORATION COMPANIES,False,False,False
+POML,Punjab Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,False,False,False
+POWER,Power Cement Limited,CEMENT,False,False,False
+POWERPS,Power Cement (Pref),CEMENT,False,False,False
+POWERR1,Power Cement (R),,False,False,False
+PPL,Pakistan Petroleum Limited,OIL & GAS EXPLORATION COMPANIES,False,False,False
+PPP,Pakistan Paper Products Limited,"PAPER, BOARD & PACKAGING",False,False,False
+PPVC,Pakistan PVC Limited,CHEMICAL,False,False,False
+PQGTL,Pak Qatar General Takaful Limited,INSURANCE,False,False,False
+PREMA,At-Tahur Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+PRET,Premium Textile Mills Limited,TEXTILE SPINNING,False,False,False
+PRIB,Prudential Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+PRIC,Progressive Insurance Company Limited,INSURANCE,False,False,False
+PRL,Pakistan Refinery Limited,REFINERY,False,False,False
+PRLR1,Pak Refinery (R),,False,False,False
+PRWM,Prosperity Weaving Mills Limited,TEXTILE WEAVING,False,False,False
+PSEL,Pakistan Services Limited,MISCELLANEOUS,False,False,False
+PSMC,Pak Suzuki Motor Company Limited,AUTOMOBILE ASSEMBLER,False,False,False
+PSO,Pakistan State Oil Company Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+PSX,Pakistan Stock Exchange Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+PSYL,Pakistan Synthetics Limited,SYNTHETIC & RAYON,False,False,False
+PTC,Pakistan Telecommunication Company Ltd,TECHNOLOGY & COMMUNICATION,False,False,False
+PTL,Panther Tyres Ltd.,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+PUDF,Prudential Stocks Fund Limited,CLOSE - END MUTUAL FUND,False,False,False
+QTECH,Quantum Data Technologies Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+QUET,Quetta Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+QUICE,Quice Food Industries Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+QUSW,Quality Steel Works Limited,,False,False,False
+RAVT,Ravi Textile Mills Limited,TEXTILE SPINNING,False,False,False
+RCML,Reliance Cotton Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+REDCO,Redco Textiles Limited,TEXTILE COMPOSITE,False,False,False
+REGAL,Regal Ceramics Limited,GLASS & CERAMICS,False,False,False
+REWM,Reliance Weaving Mills Limited,TEXTILE COMPOSITE,False,False,False
+RICL,Reliance Insurance Company Limited,INSURANCE,False,False,False
+RMPL,Rafhan Maize Products Company Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+RPL,Roshan Packages Limited,"PAPER, BOARD & PACKAGING",False,False,False
+RUBY,Ruby Textile Mills Limited,TEXTILE SPINNING,False,False,False
+RUPL,Rupali Polyester Limited,SYNTHETIC & RAYON,False,False,False
+SAIF,Saif Textile Mills Limited,TEXTILE SPINNING,False,False,False
+SALT,Salfi Textile Mills Limited,,False,False,False
+SANE,Salman Noman Enterprises Limited,TEXTILE SPINNING,False,False,False
+SANSM,Sanghar Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SAPL,Sanofi-Aventis Pakistan Limited,PHARMACEUTICALS,False,False,False
+SAPT,Sapphire Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+SARC,Sardar Chemical Industries Limited,CHEMICAL,False,False,False
+SASML,Sindh Abadgars Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SAZEW,Sazgar Engineering Works Limited,AUTOMOBILE ASSEMBLER,False,False,False
+SBL,Samba Bank Limited,COMMERCIAL BANKS,False,False,False
+SCBPL,Standard Chartered Bank (Pak) Ltd,COMMERCIAL BANKS,False,False,False
+SCHT,Schon Textiles Limited,TEXTILE COMPOSITE,False,False,False
+SCL,Shield Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+SDIL,Saleem Denim Industries Limited,TEXTILE WEAVING,False,False,False
+SDOT,Sadoon Textile Industries Limited,TEXTILE WEAVING,False,False,False
+SEARL,The Searle Company Limited,PHARMACEUTICALS,False,False,False
+SEARLR1,Searl Company(R),,False,False,False
+SEL,Sitara Energy Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+SELECT,Select Technologies Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+SEPCO,Southern Electric Power Company Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+SEPL,Security Papers Limited,"PAPER, BOARD & PACKAGING",False,False,False
+SERF,Service Fabrics Limited,TEXTILE WEAVING,False,False,False
+SERT,Service Industries Textiles Limited,TEXTILE SPINNING,False,False,False
+SFAT,Safa Textiles Limited,TEXTILE COMPOSITE,False,False,False
+SFL,Sapphire Fibres Limited,TEXTILE COMPOSITE,False,False,False
+SFLL,SFL Limited,TEXTILE COMPOSITE,False,False,False
+SGABL,SG.Allied Businesses Limited,SYNTHETIC & RAYON,False,False,False
+SGF,Service GlobalFootwear Limited,LEATHER & TANNERIES,False,False,False
+SGFL,S.G.Fiber Limited,SYNTHETIC & RAYON,False,False,False
+SGPL,S.G. Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+SGPLR,S.G.Power Limited(RIGHT),POWER GENERATION & DISTRIBUTION,False,False,False
+SHCI,Shaffi Chemical Industries Limited,CHEMICAL,False,False,False
+SHCM,Shadman Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+SHDT,Shadab Textile Mills Limited,TEXTILE SPINNING,False,False,False
+SHDTR1,Shadab Textile Mills Limited(Right),TEXTILE SPINNING,False,False,False
+SHEL,Shell Pakistan Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+SHEZ,Shezan International Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+SHFA,Shifa International Hospitals Limited,MISCELLANEOUS,False,False,False
+SHJS,Shahtaj Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SHNI,Shaheen Insurance Company Limited,INSURANCE,False,False,False
+SHSML,Shahmurad Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SIBL,Security Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+SICL,Standard Insurance Company Limited,INSURANCE,False,False,False
+SIEM,Siemens (Pakistan) Engineering,CABLE & ELECTRICAL GOODS,False,False,False
+SILK,Silkbank Limited,COMMERCIAL BANKS,False,False,False
+SINDM,Sindh Modaraba,MODARABAS,False,False,False
+SING,Singer Pakistan ,CABLE & ELECTRICAL GOODS,False,False,False
+SITC,Sitara Chemical Industries Limited,CHEMICAL,False,False,False
+SJTM,Sajjad Textile Mills Limited,,False,False,False
+SKRS,Sakrand Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SLCL,Security Leasing Corporation Limited,LEASING COMPANIES,False,False,False
+SLGL,Secure Logistics-Trax Group Limited,TRANSPORT,False,False,False
+SLL,SME Leasing Limited,LEASING COMPANIES,False,False,False
+SLM,Service Long March Tyres Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+SLSO,Saleem Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SLSOPP,,SUGAR & ALLIED INDUSTRIES,False,False,False
+SLSOPVI,,SUGAR & ALLIED INDUSTRIES,False,False,False
+SLYT,Sally Textile Mills Limited,TEXTILE SPINNING,False,False,False
+SMBL,Summit Bank Limited,COMMERCIAL BANKS,False,False,False
+SMBLCPSA,Summit Bank,COMMERCIAL BANKS,False,False,False
+SMBLCPSB,Summit Bank B,COMMERCIAL BANKS,False,False,False
+SMCPL,Safe Mix Concrete Limited,CEMENT,False,False,False
+SML,Shakarganj Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+SMLR1,,SUGAR & ALLIED INDUSTRIES,False,False,False
+SMTM,Samin Textiles Limited,TEXTILE WEAVING,False,False,False
+SNAI,Sana Industries Limited,TEXTILE SPINNING,False,False,False
+SNBL,Soneri Bank Limited,COMMERCIAL BANKS,False,False,False
+SNGP,Sui Northern Gas Pipelines Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+SOYASUP,Agro Processors & Atmospheric Gases Ltd,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+SPAC1,LSE SPAC-I Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+SPAC2,LSE SPAC-II Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+SPCL,Saudi Pak Consultancy Company Limited,LEASING COMPANIES,False,False,False
+SPEL,SPEL Limited,"PAPER, BOARD & PACKAGING",False,False,False
+SPL,Sitara Peroxide Limited,CHEMICAL,False,False,False
+SPLC,Saudi Pak Leasing Company Limited,LEASING COMPANIES,False,False,False
+SPLCTFC3,,LEASING COMPANIES,False,False,False
+SPSL,Sitara Petroleum Service Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+SPWL,Saif Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+SRR,Signature Residency REIT,REAL ESTATE INVESTMENT TRUST,False,False,False
+SRSM,Sargodha Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+SRVI,Service Industries Limited,LEATHER & TANNERIES,False,False,False
+SSGC,Sui Southern Gas Company Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+SSIC,Silver Star Insurance Company Limited,INSURANCE,False,False,False
+SSML,Saritow Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+SSOM,S.S.Oil Mills Limited,VANASPATI & ALLIED INDUSTRIES,False,False,False
+STCL,Shabbir Tiles & Ceramics Limited,GLASS & CERAMICS,False,False,False
+STJT,Shahtaj Textile Limited,TEXTILE WEAVING,False,False,False
+STL,Supernet Technologies Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+STLR,Supernet Technologies Limited.(Right),TECHNOLOGY & COMMUNICATION,False,False,False
+STML,Shams Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+STPL,Siddiqsons Tin Plate Limited,MISCELLANEOUS,False,False,False
+STYLERS,Stylers International Limited,APPAREL,False,False,False
+SUCM,Sunshine Cotton Mills Limited,TEXTILE SPINNING,False,False,False
+SUHJ,Suhail Jute Mills Limited,JUTE,False,False,False
+SURAJ,Suraj Ghee Industries Limited,VANASPATI & ALLIED INDUSTRIES,False,False,False
+SURC,Suraj Cotton Mills Limited,TEXTILE COMPOSITE,False,False,False
+SUTM,Sunrays Textile Mills Limited,TEXTILE SPINNING,False,False,False
+SWL,Standard Worldwide Limited,INSURANCE,False,False,False
+SYM,Symmetry Group Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+SYS,Systems Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+SZTM,Shahzad Textile Mills Limited,TEXTILE SPINNING,False,False,False
+TAJT,Taj Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+TATM,Tata Textile Mills Limited,TEXTILE SPINNING,False,False,False
+TBL,Treet Battery Limited.,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+TCLTC,Treet Corporation (Ptc),FOOD & PERSONAL CARE PRODUCTS,False,False,False
+TCORP,Tariq Corporation Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+TCORPR1,Tariq Corporation (Pvt) Ltd (R),,False,False,False
+TCORPR2,Tariq Corporation Limited(Right),SUGAR & ALLIED INDUSTRIES,False,False,False
+TDIL,TPL Direct Insurance Limited,INSURANCE,False,False,False
+TELE,Telecard Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+TGL,Tariq Glass Industries Limited,GLASS & CERAMICS,False,False,False
+THALL,Thal Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+THAS,Taha Spinning Mills Limited,TEXTILE SPINNING,False,False,False
+THCCL,Thatta Cement Company Limited,CEMENT,False,False,False
+TICL,The Thal Industries Corporation Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+TISL,Tasdeeq Information Services Limited,MISCELLANEOUS,False,False,False
+TOMCL,The Organic Meat Company Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+TOWL,Towellers Limited,TEXTILE COMPOSITE,False,False,False
+TPL,TPL Corp Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+TPLI,TPL Insurance Limited,INSURANCE,False,False,False
+TPLL,TPL Life Insurance Limited,INSURANCE,False,False,False
+TPLP,TPL Properties Limited,PROPERTY,False,False,False
+TPLRF1,TPL REIT Fund I,REAL ESTATE INVESTMENT TRUST,False,False,False
+TPLT,TPL Trakker Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+TREET,Treet Corporation Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+TREI,Transmission Engineering Industries Limited,AUTOMOBILE PARTS & ACCESSORIES,False,False,False
+TRG,TRG Pakistan Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+TRIBL,Trust Investment Bank Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+TRIPF,Tri-Pack Films Limited,MISCELLANEOUS,False,False,False
+TRPOL,Tri-Star Polyester Limited,SYNTHETIC & RAYON,False,False,False
+TRSM,Trust Modaraba,MODARABAS,False,False,False
+TSBL,Trust Securities & Brokerage Limited,INV. BANKS / INV. COS. / SECURITIES COS.,False,False,False
+TSMF,Tri-Star Mutual Fund Limited,CLOSE - END MUTUAL FUND,False,False,False
+TSML,Tandlianwala Sugar Mills Limited,SUGAR & ALLIED INDUSTRIES,False,False,False
+TSPL,Tri-Star Power Limited,POWER GENERATION & DISTRIBUTION,False,False,False
+UBDL,United Brands Limited,MISCELLANEOUS,False,False,False
+UBL,United Bank Limited,COMMERCIAL BANKS,False,False,False
+UBLGSFO,,,False,False,False
+UBLPETF,UBLPakistan Enterprise ETF,EXCHANGE TRADED FUNDS,True,False,False
+UCAPM,Unicap Modaraba,MODARABAS,False,False,False
+UDLI,UDL International Limited,MISCELLANEOUS,False,False,False
+UDPL,United Distributors Pakistan Limited,MISCELLANEOUS,False,False,False
+UNIC,The United Insurance Company,INSURANCE,False,False,False
+UNITY,Unity Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+UNITYR1,Unity Foods(R),,False,False,False
+UPFL,Unilever Pakistan Foods Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+USMT,Usman Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+UVIC,The Universal Insurance Company Limited,INSURANCE,False,False,False
+WAFI,Wafi Energy Pakistan Limited,OIL & GAS MARKETING COMPANIES,False,False,False
+WAHDAT,Wahdat Poultry Farm Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+WAHN,Wah Noble Chemicals Limited,CHEMICAL,False,False,False
+WASL,Wasl Mobility Modaraba,MODARABAS,False,False,False
+WASLR,Wasl Mobility Modaraba(Right),MODARABAS,False,False,False
+WAVES,Waves Corporation Limited,CABLE & ELECTRICAL GOODS,False,False,False
+WAVESAPP,Waves Home Appliances Limited,CABLE & ELECTRICAL GOODS,False,False,False
+WAVESAPPR,Waves Home Appliances Limited(Right),CABLE & ELECTRICAL GOODS,False,False,False
+WAVESR1,Waves Singer Pakistan Limited (R),,False,False,False
+WHALE,Waves Home Appliances Limited,CABLE & ELECTRICAL GOODS,False,False,False
+WTL,Worldcall Telecom Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+WYETH,Wyeth Pakistan Limited,PHARMACEUTICALS,False,False,False
+YOUW,Yousaf Weaving Mills Limited,TEXTILE WEAVING,False,False,False
+ZAHID,Zahidjee Textile Mills Limited,TEXTILE COMPOSITE,False,False,False
+ZAL,Zarea Limited,TECHNOLOGY & COMMUNICATION,False,False,False
+ZELP,Zeal Pak Cement Factory Limited,CEMENT,False,False,False
+ZHCM,Zahur Cotton Mills Limited,TEXTILE COMPOSITE,False,False,False
+ZIL,ZIL Limited,FOOD & PERSONAL CARE PRODUCTS,False,False,False
+ZTL,Zephyr Textiles Limited,TEXTILE WEAVING,False,False,False
+ZUMA,Zuma Resources Limited,TECHNOLOGY & COMMUNICATION,False,False,False
